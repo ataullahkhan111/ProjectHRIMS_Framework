@@ -12,3 +12,5 @@ test('Performing Operations', async ({ page }) => {
     await CommonFun.waitsmt()
     await Verifytitle.VerifyTitle('SureshIT')
 })
+
+// console.log("value")
